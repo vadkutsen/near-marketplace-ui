@@ -1,5 +1,5 @@
 {
-  "homepage": "https://${GithubUsername}.github.io/${RepositoryName}",
+  "homepage": "https://vadkutsen.github.io/near-marketplace-ui",
   "name": "near-marketplace",
   "version": "0.1.0",
   "private": true,
